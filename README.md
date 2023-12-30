@@ -1,10 +1,12 @@
-## Coffee Sales Dashboard Project
-# Overview
+# Coffee Sales Dashboard Project
+
+### Overview
 
 This project involves the analysis of coffee orders data using Microsoft Excel. 
 The dataset includes information on orders, customers, and products. 
 The goal is to automate the process of filling in order details, create insightful visualizations, and build a dynamic dashboard for interactive exploration.
-# Key Features:
+
+### Key Features:
 
     -- Data Integration:
          Used Excel functions such as XLOOKUP, INDEX, and MATCH to seamlessly integrate data from multiple sheets, 
@@ -23,7 +25,7 @@ The goal is to automate the process of filling in order details, create insightf
          Designed a comprehensive dashboard grouping all visualizations for a holistic view of coffee sales trends.
          Achieved interactivity through report connections, allowing users to dynamically explore the data.
 
-# How to Use
+### How to Use
 
     1.Open the Excel file.
     2.Review the 'Orders' sheet for filled data.
