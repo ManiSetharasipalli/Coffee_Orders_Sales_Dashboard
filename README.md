@@ -8,7 +8,7 @@ The goal is to automate the process of filling in order details, create insightf
 
 #### Key Features:
 
-    -- Data Integration:
+-- Data Integration:
          Used Excel functions such as XLOOKUP, INDEX, and MATCH to seamlessly integrate data from multiple sheets, 
          including customer names, emails, country, coffee types, roast types, unit prices, and sizes.
 
